@@ -1,4 +1,6 @@
 
+// Variables and data types
+
 // Strings
 var myVar2 = "Hello";
 var name = 'Jonas';
